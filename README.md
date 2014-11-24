@@ -1,7 +1,7 @@
 send-carbon
 ===========
 
-Simple class to send metric to carbon-cache using the plaintext protocol.
+Simple class to send metrics to carbon-cache using the plaintext protocol.
 
 Example:
 ```python
